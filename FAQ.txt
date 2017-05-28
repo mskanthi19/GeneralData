@@ -1,0 +1,2 @@
+learn embedded linux
+learn free rtos
