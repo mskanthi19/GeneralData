@@ -1,2 +1,5 @@
-learn embedded linux
-learn free rtos
+learn embedded linux   P1
+learn free rtos        P1
+
+Learn completely mts,clp,rnsn,1508 ,wuthout any doubts
+target etag and orsi
